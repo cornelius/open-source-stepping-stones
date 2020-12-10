@@ -23,6 +23,19 @@ To give some orientation we group the stepping stones in eight paths which look 
 * [*Onboarding*](onboarding.md) - How do people get into the project?
 * [*Sustainability*](sustainability.md) - What is the long-term perspective to maintain the project? Where does funding come from?
 
+## The big picture
+
+The eight paths form four angles from which to access an open source project. Together they build the complete picture of stepping stones.
+
+[TODO: Insert an image here]
+
+There are four angles:
+
+* The emotional angle: Motivation and Home
+* The angle of accessibility: Transparency and Adoption
+* The structural angle: Development and Governance
+* The economical angle: Onboarding and Sustainability
+
 ## License
 
 The content of this repository is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
