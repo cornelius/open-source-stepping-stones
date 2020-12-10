@@ -31,10 +31,18 @@ The eight paths form four angles from which to access an open source project. To
 
 There are four angles:
 
-* The emotional angle: Motivation and Home
-* The angle of accessibility: Transparency and Adoption
-* The structural angle: Development and Governance
-* The economical angle: Onboarding and Sustainability
+* The emotional angle: [*Motivation*](motivation.md) and [*Home*](home.md)
+* The angle of accessibility: [*Transparency*](transparency.md) and [*Adoption*](adoption.md)
+* The structural angle: [*Development*](development.md) and [*Governance*](governance.md)
+* The economical angle: [*Onboarding*](onboarding.md) and [*Sustainability*](sustainability.md)
+
+## How to use the stepping stones
+
+Use the stepping stones as patterns for success. Apply what fits you. Learn from the examples. Use them as checklist of what to care about.
+
+Each project will need its specific set of stepping stones and will arrange them in different patterns put different priorities. Looking at it from a systematic way and learning from others can help to find your own way.
+
+And when you find paths and stepping stones which are not listed here yet, please feel free to contribute them so that others can learn from it as well.
 
 ## License
 
