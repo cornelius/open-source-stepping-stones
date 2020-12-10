@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+    This file was programmatically generated. Don't edit it directly.
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="760"
+   height="420"
+   version="1.1"
+   id="svg318"
+   sodipodi:docname="transparency-edited.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata324">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs322" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1745"
+     inkscape:window-height="923"
+     id="namedview320"
+     showgrid="true"
+     inkscape:zoom="1.4447059"
+     inkscape:cx="461.74488"
+     inkscape:cy="310.82285"
+     inkscape:window-x="109"
+     inkscape:window-y="91"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg318">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5054" />
+  </sodipodi:namedview>
+  <rect
+     x="0"
+     y="0"
+     width="760"
+     height="420"
+     id="rect2"
+     style="fill:#eeeeee;stroke-width:0.44457513" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 815.39088,-529.67427 v 0"
+     id="path5052"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 0,-500 C 1680,420 1680,420 1680,420"
+     id="path5077"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 6;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 0,420 760,0"
+     id="path5075-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <g
+     font-size="18"
+     id="g178"
+     style="font-size:18px;font-family:arial;fill:#222222"
+     transform="translate(-508.75407,-252.04397)">
+    <text
+       x="870"
+       y="290"
+       id="text176">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Bold'"
+         id="tspan5157">Transparency</tspan>
+    </text>
+  </g>
+  <g
+     id="g5098"
+     transform="translate(-850,-40)">
+    <rect
+       id="rect180"
+       rx="5"
+       height="40"
+       width="150"
+       y="300"
+       x="860"
+       style="fill:#e51919" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(10.084961,-1.7109375)"
+       id="g184"
+       font-size="12">
+      <text
+         id="text182"
+         y="326"
+         x="883">Release culture</text>
+    </g>
+  </g>
+  <g
+     id="g1339"
+     transform="translate(-900,-55)">
+    <rect
+       id="rect186"
+       rx="5"
+       height="40"
+       width="150"
+       y="255"
+       x="970"
+       style="fill:#e51919" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(-1.0322266,-2.8974609)"
+       id="g190"
+       font-size="12">
+      <text
+         id="text188"
+         y="281"
+         x="983">Improvement proposals</text>
+    </g>
+  </g>
+  <g
+     id="g1344"
+     transform="translate(-870,-70)">
+    <rect
+       id="rect192"
+       rx="5"
+       height="40"
+       width="150"
+       y="210"
+       x="1070"
+       style="fill:#e51919" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(6.1806641,-1.7109375)"
+       id="g196"
+       font-size="12">
+      <text
+         id="text194"
+         y="236"
+         x="1083">Archived discussions</text>
+    </g>
+  </g>
+  <g
+     id="g1349"
+     transform="translate(-1140,-25)">
+    <rect
+       id="rect198"
+       rx="5"
+       height="40"
+       width="150"
+       y="165"
+       x="1170"
+       style="fill:#e51919" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(21.541016,-1.7109375)"
+       id="g202"
+       font-size="12">
+      <text
+         id="text200"
+         y="191"
+         x="1183">Documentation</text>
+    </g>
+  </g>
+  <g
+     id="g1354"
+     transform="translate(-1180,-40)">
+    <rect
+       id="rect204"
+       rx="5"
+       height="40"
+       width="150"
+       y="120"
+       x="1270"
+       style="fill:#e51919" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(41.375,-2.8974609)"
+       id="g208"
+       font-size="12">
+      <text
+         id="text206"
+         y="146"
+         x="1283">Badges</text>
+    </g>
+  </g>
+  <g
+     id="g1359"
+     transform="translate(-1090,5)">
+    <rect
+       id="rect210"
+       rx="5"
+       height="40"
+       width="150"
+       y="75"
+       x="1370"
+       style="fill:#e51919" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(23.313477,-2.8974609)"
+       id="g214"
+       font-size="12">
+      <text
+         id="text212"
+         y="101"
+         x="1383">Insider reports</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+    This file was programmatically generated. Don't edit it directly.
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="760"
+   height="420"
+   version="1.1"
+   id="svg318"
+   sodipodi:docname="adoption-edited.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata324">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs322" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1745"
+     inkscape:window-height="923"
+     id="namedview320"
+     showgrid="true"
+     inkscape:zoom="1.4447059"
+     inkscape:cx="351.68788"
+     inkscape:cy="172.38637"
+     inkscape:window-x="109"
+     inkscape:window-y="91"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg318">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5054" />
+  </sodipodi:namedview>
+  <rect
+     x="0"
+     y="0"
+     width="760"
+     height="420"
+     id="rect2"
+     style="fill:#eeeeee;stroke-width:0.44457513" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 815.39088,-529.67427 v 0"
+     id="path5052"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 0,-500 C 1680,420 1680,420 1680,420"
+     id="path5077"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 6;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 0,420 760,0"
+     id="path5075-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <g
+     font-size="18"
+     id="g218"
+     style="font-size:18px;font-family:arial;fill:#222222"
+     transform="translate(-218.64007,-149.52769)">
+    <text
+       x="870"
+       y="390"
+       id="text216">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Bold'"
+         id="tspan5159">Adoption</tspan>
+    </text>
+  </g>
+  <g
+     id="g1299"
+     transform="translate(-680,-60)">
+    <rect
+       id="rect220"
+       rx="5"
+       height="40"
+       width="150"
+       y="400"
+       x="870"
+       style="fill:#e519c8" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(11.251953,-3.0556641)"
+       id="g224"
+       font-size="12">
+      <text
+         id="text222"
+         y="426"
+         x="883">Support your users</text>
+    </g>
+  </g>
+  <g
+     id="g1304"
+     transform="translate(-670,-75)">
+    <rect
+       id="rect226"
+       rx="5"
+       height="40"
+       width="150"
+       y="355"
+       x="970"
+       style="fill:#e519c8" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(21.541016,-1.7109375)"
+       id="g230"
+       font-size="12">
+      <text
+         id="text228"
+         y="381"
+         x="983">Documentation</text>
+    </g>
+  </g>
+  <g
+     id="g1309"
+     transform="translate(-690,30)">
+    <rect
+       id="rect232"
+       rx="5"
+       height="40"
+       width="150"
+       y="310"
+       x="1070"
+       style="fill:#e519c8" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(33.875,-2.8974609)"
+       id="g236"
+       font-size="12">
+      <text
+         id="text234"
+         y="336"
+         x="1083">Packaging</text>
+    </g>
+  </g>
+  <g
+     id="g1314"
+     transform="translate(-750,-45)">
+    <rect
+       id="rect238"
+       rx="5"
+       height="40"
+       width="150"
+       y="265"
+       x="1170"
+       style="fill:#e519c8" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(6.8544922,-2.8974609)"
+       id="g242"
+       font-size="12">
+      <text
+         id="text240"
+         y="291"
+         x="1183">Professional support</text>
+    </g>
+  </g>
+  <g
+     id="g1319"
+     transform="translate(-770,60)">
+    <rect
+       id="rect244"
+       rx="5"
+       height="40"
+       width="150"
+       y="220"
+       x="1270"
+       style="fill:#e519c8" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(33.461914,-1.7109375)"
+       id="g248"
+       font-size="12">
+      <text
+         id="text246"
+         y="246"
+         x="1283">User voice</text>
+    </g>
+  </g>
+  <g
+     id="g1324"
+     transform="translate(-820,-35)">
+    <rect
+       id="rect250"
+       rx="5"
+       height="40"
+       width="150"
+       y="175"
+       x="1370"
+       style="fill:#e519c8" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(24.948242,-1.7109375)"
+       id="g254"
+       font-size="12">
+      <text
+         id="text252"
+         y="201"
+         x="1383">Communicate</text>
+    </g>
+  </g>
+  <g
+     id="g1329"
+     transform="translate(-910,210)">
+    <rect
+       id="rect256"
+       rx="5"
+       height="40"
+       width="150"
+       y="130"
+       x="1470"
+       style="fill:#e519c8" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(17.583008,-2.8974609)"
+       id="g260"
+       font-size="12">
+      <text
+         id="text258"
+         y="156"
+         x="1483">Set expectations</text>
+    </g>
+  </g>
+</svg>

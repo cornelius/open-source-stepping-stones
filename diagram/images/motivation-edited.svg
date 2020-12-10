@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+    This file was programmatically generated. Don't edit it directly.
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="760"
+   height="420"
+   version="1.1"
+   id="svg318"
+   sodipodi:docname="motivation-edited.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata324">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs322" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1745"
+     inkscape:window-height="923"
+     id="namedview320"
+     showgrid="true"
+     inkscape:zoom="0.72235294"
+     inkscape:cx="710.23837"
+     inkscape:cy="421.57204"
+     inkscape:window-x="109"
+     inkscape:window-y="91"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg318">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5054" />
+  </sodipodi:namedview>
+  <rect
+     x="0"
+     y="0"
+     width="760"
+     height="420"
+     id="rect2"
+     style="fill:#eeeeee;stroke-width:0.44457513" />
+  <g
+     font-size="18"
+     id="g12"
+     style="font-size:18px;font-family:arial;fill:#222222"
+     transform="translate(293.01303,-40.92834)">
+    <text
+       x="130"
+       y="80"
+       id="text10">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Bold'"
+         id="tspan5155">Motivation</tspan>
+    </text>
+  </g>
+  <g
+     id="g5122"
+     transform="translate(-60,-40)">
+    <rect
+       id="rect14"
+       rx="5"
+       height="40"
+       width="150"
+       y="120"
+       x="550"
+       style="fill:#e56f19;fill-opacity:1" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(430.48144,27.102539)"
+       id="g18"
+       font-size="12">
+      <text
+         id="text16"
+         y="116"
+         x="143">Interesting problem</text>
+    </g>
+  </g>
+  <g
+     id="g5138"
+     transform="translate(-60,-40)">
+    <rect
+       id="rect20"
+       rx="5"
+       height="40"
+       width="150"
+       y="120"
+       x="330"
+       style="fill:#e56f19;fill-opacity:1" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(125.7627,-16.710937)"
+       id="g24"
+       font-size="12">
+      <text
+         id="text22"
+         y="161"
+         x="243">Shared vision</text>
+    </g>
+  </g>
+  <g
+     id="g5130"
+     transform="translate(-60,-40)">
+    <rect
+       id="rect26"
+       rx="5"
+       height="40"
+       width="150"
+       y="180"
+       x="430"
+       style="fill:#e56f19;fill-opacity:1" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(130.20996,-2.8974609)"
+       id="g30"
+       font-size="12">
+      <text
+         id="text28"
+         y="206"
+         x="343">Recognition</text>
+    </g>
+  </g>
+  <g
+     id="g5114"
+     transform="translate(-60,-40)">
+    <rect
+       id="rect32"
+       rx="5"
+       height="40"
+       width="150"
+       y="180"
+       x="630"
+       style="fill:#e56f19;fill-opacity:1" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(203.38574,-47.897461)"
+       id="g36"
+       font-size="12">
+      <text
+         id="text34"
+         y="251"
+         x="443">Geeking out over tech</text>
+    </g>
+  </g>
+  <g
+     id="g5106"
+     transform="translate(-60,-40)">
+    <rect
+       id="rect38"
+       rx="5"
+       height="40"
+       width="150"
+       y="240"
+       x="570"
+       style="fill:#e56f19;fill-opacity:1" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff;fill-opacity:1"
+       transform="translate(43.514648,-32.897461)"
+       id="g42"
+       font-size="12">
+      <text
+         style="fill:#ffffff;fill-opacity:1"
+         id="text40"
+         y="296"
+         x="543">Learning environment</text>
+    </g>
+  </g>
+  <rect
+     style="fill:#e56f19;fill-opacity:1"
+     x="590"
+     y="260"
+     width="150"
+     height="40"
+     rx="5"
+     id="rect44" />
+  <g
+     font-size="12"
+     id="g48"
+     transform="translate(-9.573242,-56.71094)"
+     style="font-size:12px;font-family:arial;fill:#ffffff">
+    <text
+       x="643"
+       y="341"
+       id="text46">Persistence</text>
+  </g>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 815.39088,-529.67427 v 0"
+     id="path5052"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 0,-500 C 1680,420 1680,420 1680,420"
+     id="path5077"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 6;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 0,0 760,420"
+     id="path5075-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+</svg>

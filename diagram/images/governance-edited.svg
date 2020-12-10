@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+    This file was programmatically generated. Don't edit it directly.
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="760"
+   height="420"
+   version="1.1"
+   id="svg318"
+   sodipodi:docname="governance-edited.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata324">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs322" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1745"
+     inkscape:window-height="923"
+     id="namedview320"
+     showgrid="true"
+     inkscape:zoom="0.72235294"
+     inkscape:cx="710.23837"
+     inkscape:cy="421.57204"
+     inkscape:window-x="109"
+     inkscape:window-y="91"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg318">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5054" />
+  </sodipodi:namedview>
+  <rect
+     x="0"
+     y="0"
+     width="760"
+     height="420"
+     id="rect2"
+     style="fill:#eeeeee;stroke-width:0.44457513" />
+  <g
+     font-size="12"
+     id="g48"
+     transform="translate(-9.573242,-56.71094)"
+     style="font-size:12px;font-family:arial;fill:#ffffff">
+    <text
+       x="643"
+       y="341"
+       id="text46">Persistence</text>
+  </g>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 815.39088,-529.67427 v 0"
+     id="path5052"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 0,-500 C 1680,420 1680,420 1680,420"
+     id="path5077"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 6;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 0,420 760,0"
+     id="path5075-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <g
+     font-size="18"
+     id="g132"
+     style="font-size:18px;font-family:arial;fill:#222222"
+     transform="translate(342.99675,-432.62215)">
+    <text
+       x="50"
+       y="840"
+       id="text130">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Bold'"
+         id="tspan5165">Governance</tspan>
+    </text>
+  </g>
+  <g
+     id="g1224"
+     transform="translate(530,-530)">
+    <rect
+       id="rect134"
+       rx="5"
+       height="40"
+       width="150"
+       y="850"
+       x="50"
+       style="fill:#19e58e" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(28.701172,-1.7109375)"
+       id="g138"
+       font-size="12">
+      <text
+         id="text136"
+         y="876"
+         x="63">Foundations</text>
+    </g>
+  </g>
+  <g
+     id="g1229"
+     transform="translate(250,-483)">
+    <rect
+       id="rect140"
+       rx="5"
+       height="40"
+       width="150"
+       y="803"
+       x="150"
+       style="fill:#19e58e" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(41.09375,-1.7109375)"
+       id="g144"
+       font-size="12">
+      <text
+         id="text142"
+         y="829"
+         x="163">License</text>
+    </g>
+  </g>
+  <g
+     id="g1234"
+     transform="translate(-30,-436)">
+    <rect
+       id="rect146"
+       rx="5"
+       height="40"
+       width="150"
+       y="756"
+       x="250"
+       style="fill:#19e58e" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(16.085937,-2.8974609)"
+       id="g150"
+       font-size="12">
+      <text
+         id="text148"
+         y="782"
+         x="263">Trademark policy</text>
+    </g>
+  </g>
+  <g
+     id="g1239"
+     transform="translate(0,-449)">
+    <rect
+       id="rect152"
+       rx="5"
+       height="40"
+       width="150"
+       y="709"
+       x="350"
+       style="fill:#19e58e" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(0.87207031,-2.8974609)"
+       id="g156"
+       font-size="12">
+      <text
+         id="text154"
+         y="735"
+         x="363">Contribution guidelines</text>
+    </g>
+  </g>
+  <g
+     id="g1244"
+     transform="translate(110,-402)">
+    <rect
+       id="rect158"
+       rx="5"
+       height="40"
+       width="150"
+       y="662"
+       x="450"
+       style="fill:#19e58e" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(-1.1201172,-2.8974609)"
+       id="g162"
+       font-size="12">
+      <text
+         id="text160"
+         y="688"
+         x="463">Contributor agreements</text>
+    </g>
+  </g>
+  <g
+     id="g1249"
+     transform="translate(-30,-415)">
+    <rect
+       id="rect164"
+       rx="5"
+       height="40"
+       width="150"
+       y="615"
+       x="550"
+       style="fill:#19e58e" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(28.041992,-2.8974609)"
+       id="g168"
+       font-size="12">
+      <text
+         id="text166"
+         y="641"
+         x="563">Partnerships</text>
+    </g>
+  </g>
+  <g
+     id="g1254"
+     transform="translate(-70,-428)">
+    <rect
+       id="rect170"
+       rx="5"
+       height="40"
+       width="150"
+       y="568"
+       x="650"
+       style="fill:#19e58e" />
+    <g
+       style="font-size:12px;font-family:arial;fill:#ffffff"
+       transform="translate(23.09375,-2.8974609)"
+       id="g174"
+       font-size="12">
+      <text
+         id="text172"
+         y="594"
+         x="663">Explicit culture</text>
+    </g>
+  </g>
+</svg>

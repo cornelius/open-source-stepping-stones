@@ -1,0 +1,330 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--
+    This file was programmatically generated. Don't edit it directly.
+-->
+<svg width="1700" height="950" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect x="0" y="0" width="1700" height="950" fill="#eee"/>
+  <g font-size="25" font-family="arial" fill="#444">
+    <text x="40" y="50">
+      Open Source stepping stones
+    </text>
+  </g>
+  <circle cx="830" cy="480" r="20" fill="#101010"/>
+  <g font-size="18" font-family="arial" fill="#222">
+    <text x="130" y="80">
+      Motivation
+    </text>
+  </g>
+  <rect x="130" y="90" width="150" height="40" fill="#e51919" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="143" y="116">
+      Interesting problem
+    </text>
+  </g>
+  <rect x="230" y="135" width="150" height="40" fill="#e51919" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="243" y="161">
+      Shared vision
+    </text>
+  </g>
+  <rect x="330" y="180" width="150" height="40" fill="#e51919" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="343" y="206">
+      Recognition
+    </text>
+  </g>
+  <rect x="430" y="225" width="150" height="40" fill="#e51919" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="443" y="251">
+      Geeking out over tech
+    </text>
+  </g>
+  <rect x="530" y="270" width="150" height="40" fill="#e51919" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="543" y="296">
+      Learning environment
+    </text>
+  </g>
+  <rect x="630" y="315" width="150" height="40" fill="#e51919" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="643" y="341">
+      Persistence
+    </text>
+  </g>
+  <g font-size="18" font-family="arial" fill="#222">
+    <text x="180" y="200">
+      Home
+    </text>
+  </g>
+  <rect x="180" y="210" width="150" height="40" fill="#e5c819" rx="5"/>
+  <g font-size="12" font-family="arial" fill="black">
+    <text x="193" y="236">
+      Identity
+    </text>
+  </g>
+  <rect x="280" y="255" width="150" height="40" fill="#e5c819" rx="5"/>
+  <g font-size="12" font-family="arial" fill="black">
+    <text x="293" y="281">
+      Events as catalysts
+    </text>
+  </g>
+  <rect x="380" y="300" width="150" height="40" fill="#e5c819" rx="5"/>
+  <g font-size="12" font-family="arial" fill="black">
+    <text x="393" y="326">
+      Your repository
+    </text>
+  </g>
+  <rect x="480" y="345" width="150" height="40" fill="#e5c819" rx="5"/>
+  <g font-size="12" font-family="arial" fill="black">
+    <text x="493" y="371">
+      Take care of people
+    </text>
+  </g>
+  <rect x="580" y="390" width="150" height="40" fill="#e5c819" rx="5"/>
+  <g font-size="12" font-family="arial" fill="black">
+    <text x="593" y="416">
+      Culture
+    </text>
+  </g>
+  <g font-size="18" font-family="arial" fill="#222">
+    <text x="50" y="720">
+      Development
+    </text>
+  </g>
+  <rect x="50" y="730" width="150" height="40" fill="#53e519" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="63" y="756">
+      Code review
+    </text>
+  </g>
+  <rect x="150" y="685" width="150" height="40" fill="#53e519" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="163" y="711">
+      Tests
+    </text>
+  </g>
+  <rect x="250" y="640" width="150" height="40" fill="#53e519" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="263" y="666">
+      Automate away
+    </text>
+  </g>
+  <rect x="350" y="595" width="150" height="40" fill="#53e519" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="363" y="621">
+      Trustful releases
+    </text>
+  </g>
+  <rect x="450" y="550" width="150" height="40" fill="#53e519" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="463" y="576">
+      Standard procedures
+    </text>
+  </g>
+  <rect x="550" y="505" width="150" height="40" fill="#53e519" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="563" y="531">
+      Interfaces
+    </text>
+  </g>
+  <rect x="650" y="460" width="150" height="40" fill="#53e519" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="663" y="486">
+      Simplify your build
+    </text>
+  </g>
+  <g font-size="18" font-family="arial" fill="#222">
+    <text x="50" y="840">
+      Governance
+    </text>
+  </g>
+  <rect x="50" y="850" width="150" height="40" fill="#19e58e" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="63" y="876">
+      Foundations
+    </text>
+  </g>
+  <rect x="150" y="803" width="150" height="40" fill="#19e58e" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="163" y="829">
+      License
+    </text>
+  </g>
+  <rect x="250" y="756" width="150" height="40" fill="#19e58e" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="263" y="782">
+      Trademark policy
+    </text>
+  </g>
+  <rect x="350" y="709" width="150" height="40" fill="#19e58e" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="363" y="735">
+      Contribution guidelines
+    </text>
+  </g>
+  <rect x="450" y="662" width="150" height="40" fill="#19e58e" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="463" y="688">
+      Contributor agreements
+    </text>
+  </g>
+  <rect x="550" y="615" width="150" height="40" fill="#19e58e" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="563" y="641">
+      Partnerships
+    </text>
+  </g>
+  <rect x="650" y="568" width="150" height="40" fill="#19e58e" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="663" y="594">
+      Explicit culture
+    </text>
+  </g>
+  <g font-size="18" font-family="arial" fill="#222">
+    <text x="870" y="290">
+      Transparency
+    </text>
+  </g>
+  <rect x="870" y="300" width="150" height="40" fill="#e51919" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="883" y="326">
+      Release culture
+    </text>
+  </g>
+  <rect x="970" y="255" width="150" height="40" fill="#e51919" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="983" y="281">
+      Improvement proposals
+    </text>
+  </g>
+  <rect x="1070" y="210" width="150" height="40" fill="#e51919" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="1083" y="236">
+      Archived discussions
+    </text>
+  </g>
+  <rect x="1170" y="165" width="150" height="40" fill="#e51919" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="1183" y="191">
+      Documentation
+    </text>
+  </g>
+  <rect x="1270" y="120" width="150" height="40" fill="#e51919" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="1283" y="146">
+      Badges
+    </text>
+  </g>
+  <rect x="1370" y="75" width="150" height="40" fill="#e51919" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="1383" y="101">
+      Insider reports
+    </text>
+  </g>
+  <g font-size="18" font-family="arial" fill="#222">
+    <text x="870" y="390">
+      Adoption
+    </text>
+  </g>
+  <rect x="870" y="400" width="150" height="40" fill="#e519c8" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="883" y="426">
+      Support your users
+    </text>
+  </g>
+  <rect x="970" y="355" width="150" height="40" fill="#e519c8" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="983" y="381">
+      Documentation
+    </text>
+  </g>
+  <rect x="1070" y="310" width="150" height="40" fill="#e519c8" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="1083" y="336">
+      Packaging
+    </text>
+  </g>
+  <rect x="1170" y="265" width="150" height="40" fill="#e519c8" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="1183" y="291">
+      Professional support
+    </text>
+  </g>
+  <rect x="1270" y="220" width="150" height="40" fill="#e519c8" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="1283" y="246">
+      User voice
+    </text>
+  </g>
+  <rect x="1370" y="175" width="150" height="40" fill="#e519c8" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="1383" y="201">
+      Communicate
+    </text>
+  </g>
+  <rect x="1470" y="130" width="150" height="40" fill="#e519c8" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="1483" y="156">
+      Set expectations
+    </text>
+  </g>
+  <g font-size="18" font-family="arial" fill="#222">
+    <text x="870" y="490">
+      Onboarding
+    </text>
+  </g>
+  <rect x="870" y="500" width="150" height="40" fill="#5319e5" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="883" y="526">
+      Mentoring
+    </text>
+  </g>
+  <rect x="970" y="545" width="150" height="40" fill="#5319e5" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="983" y="571">
+      Responsiveness
+    </text>
+  </g>
+  <rect x="1070" y="590" width="150" height="40" fill="#5319e5" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="1083" y="616">
+      Entry points
+    </text>
+  </g>
+  <rect x="1170" y="635" width="150" height="40" fill="#5319e5" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="1183" y="661">
+      Contributor funnel
+    </text>
+  </g>
+  <g font-size="18" font-family="arial" fill="#222">
+    <text x="870" y="590">
+      Sustainability
+    </text>
+  </g>
+  <rect x="870" y="600" width="150" height="40" fill="#198ee5" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="883" y="626">
+      Business model
+    </text>
+  </g>
+  <rect x="970" y="645" width="150" height="40" fill="#198ee5" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="983" y="671">
+      Volunteering
+    </text>
+  </g>
+  <rect x="1070" y="690" width="150" height="40" fill="#198ee5" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="1083" y="716">
+      Donations
+    </text>
+  </g>
+  <rect x="1170" y="735" width="150" height="40" fill="#198ee5" rx="5"/>
+  <g font-size="12" font-family="arial" fill="white">
+    <text x="1183" y="761">
+      Open Source time
+    </text>
+  </g>
+</svg>
