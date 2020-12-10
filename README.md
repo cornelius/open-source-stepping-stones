@@ -4,7 +4,7 @@
 
 Open Source is built on openness and freedom. It providies space for intrinsically motivated work and free distributon of its results. This reduces barriers. It allows peers to come together and realize their goals through open means. One of the powerful results are open source communities. They unlock new levels of collaboration and adoption which result in a new quality of success. Not every open source project intends to build a community but those who do and succeed have an invaluable asset at hand to foster their success.
 
-How can you reach that success? There are two key factors: *Produce good code* and *Be accessible to users and contributors*. This is what makes a good upstream open source project, a project which creates value to its users, a project which attracts people to work on creating this value together.
+How can you reach that success? There are two key factors: **Produce good code** and **Be accessible to users and contributors**. This is what makes a good upstream open source project, a project which creates value to its users, a project which attracts people to work on creating this value together.
 
 There is a lot to be said about how to create good code which has value to its users and there are many places where you will find great information, advice and inspiration how this can be done. Here we will focus on how to make an open source project accessible to users and contributors. What are the stepping stones you need to build to give users and contributors a way to access the project, to use its results and be a part of it.
 
