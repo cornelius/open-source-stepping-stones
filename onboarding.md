@@ -18,6 +18,7 @@ The following stepping stones form the path of onboarding. They are not in a spe
 * KDE's history in GSoC, how students become mentors and program organizers, how it span off Season of KDE, because some people wanted to do it, even without money
 * How Cloud Foundry Dojos work
 
+
 ## Responsiveness
 
 Quick responses keep new contributors on board. Clear expectations give people confidence.
