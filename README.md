@@ -27,7 +27,7 @@ To give some orientation we group the stepping stones in eight paths which look 
 
 The eight paths form four angles from which to access an open source project. Together they build the complete picture of stepping stones.
 
-[TODO: Insert an image here]
+![Stepping Stones](diagram/images/stepping_stones)
 
 There are four angles:
 
