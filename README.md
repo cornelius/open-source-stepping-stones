@@ -27,8 +27,7 @@ To give some orientation we group the stepping stones in eight paths which look 
 
 The eight paths form four angles from which to access an open source project. Together they build the complete picture of stepping stones.
 
-![Stepping Stones](diagram/images/stepping_stones.svg)
-
+![Stepping Stones](diagram/images/stepping-stones.svg)
 There are four angles:
 
 * The emotional angle: [*Motivation*](motivation.md) and [*Home*](home.md)
