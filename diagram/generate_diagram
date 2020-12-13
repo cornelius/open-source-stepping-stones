@@ -1,0 +1,32 @@
+#!/usr/bin/env python3
+
+import svg
+
+lines = ["Mentoring", "Responsiveness", "Entry points", "Contributor funnel"]
+
+line_height = 60
+
+image_width = 840
+image_height = 100 + len(lines) * line_height
+
+label_font_size = 16
+
+doc = svg.Document()
+with doc.tag('svg', 'width="%s" height="%s"' % (image_width, image_height)):
+    doc.tag('rect', 'x="0" y="0" width="%s" height="%s" fill="#eee"' % (image_width, image_height))
+
+    svg.write_text(doc, "Open Source stepping stones", size=25, fill="#444", x=40, y=50)
+    svg.write_text(doc, "Onboarding", size=18, fill="#222", x=40, y=85)
+    line_y = 120
+    label_x = 20
+    color = "11ee44"
+    for line in lines:
+        svg.write_rect(doc, x=label_x, y=line_y-30, width=130, height=40, fill="#" + color)
+        svg.write_text(doc, line, size=label_font_size, fill=svg.text_color(color), x=label_x+13, y=line_y-4)
+
+        label_x += 300
+        line_y += line_height
+
+filename = "images/stepping-stones.svg"
+with open(str(filename), "w") as file:
+    file.write(doc.out)
