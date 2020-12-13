@@ -67,3 +67,6 @@ def write_text(doc, text, size=20, fill="black", x="0", y="0"):
 
 def write_rect(doc, x=0, y=0, width=10, height=10, fill="black"):
     doc.tag('rect', 'x="%s" y="%s" width="%s" height="%s" fill="%s" rx="5"' % (x, y, width, height, fill))
+
+def write_circle(doc, x=0, y=0, r=10, fill="black"):
+    doc.tag('circle', f'cx="{x}" cy="{y}" r="{r}" fill="{fill}"')

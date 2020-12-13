@@ -53,7 +53,7 @@ Be aware that it also can turn into a weakness if it becomes dogmatic and people
 
 Open source communities can be an ideal place to learn. You are surrounded by other like-minded people. You have access to the experts, the authors, the maintainers of the software you work with. You have short feedback cycles and have the freedom to experiment but also to ship production-grade code.
 
-Using an open source project instead of some articifical exercises to get into new technology or domain or just to try something out other people care about deeply, all that can be a very motivating and rewarding learning environment. Learning by doing and giving the results to others.
+Using an open source project instead of some artificial exercises to get into new technology or domain or just to try something out other people care about deeply, all that can be a very motivating and rewarding learning environment. Learning by doing and giving the results to others.
 
 Projects which nurture this learning environment can be very attractive for eager contributors.
 

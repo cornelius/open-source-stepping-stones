@@ -1,31 +1,63 @@
 #!/usr/bin/env python3
 
 import svg
+from color_range import ColorRange
 
-lines = ["Mentoring", "Responsiveness", "Entry points", "Contributor funnel"]
+stepping_stones = {
+    "Adoption": ["Support your users", "Documentation", "Packaging", "Professional support", "User voice", "Communicate", "Set expectations"],
+    "Development": ["Code review", "Tests", "Automate away", "Trustful releases", "Standard procedures", "Interfaces", "Simplify your build"],
+    "Governance": ["Foundations", "License", "Trademark policy", "Contribution guidelines", "Contributor agreements", "Partnerships", "Explicit culture"],
+    "Home": ["Identity", "Events as catalysts", "Your repository", "Take care of people", "Culture"],
+    "Onboarding": ["Mentoring", "Responsiveness", "Entry points", "Contributor funnel"],
+    "Motivation": ["Interesting problem", "Shared vision", "Recognition", "Geeking out over tech", "Learning environment", "Persistence"],
+    "Sustainability": ["Business model", "Volunteering", "Donations", "Open Source time"],
+    "Transparency": ["Release culture", "Improvement proposals", "Archived discussions", "Documentation", "Badges", "Insider reports"]
+}
 
-line_height = 60
+cr = ColorRange("rainbow")
 
-image_width = 840
-image_height = 100 + len(lines) * line_height
+positions = [
+    # start x, start y, slope, path
+    [130, 120, 45, cr.color_range(0,7), "Motivation"],
+    [180, 240, 45, cr.color_range(1,7), "Home"],
+    [50, 760, -45, cr.color_range(2,7), "Development"],
+    [50, 880, -47, cr.color_range(3,7), "Governance"],
+    [870, 330, -45, cr.color_range(7,7), "Transparency"],
+    [870, 430, -45, cr.color_range(6,7), "Adoption"],
+    [870, 530, 45, cr.color_range(5,7), "Onboarding"],
+    [870, 630, 45, cr.color_range(4,7), "Sustainability"],
+]
 
-label_font_size = 16
+horizontal_spacing = 100
+
+image_width = 2000
+image_height = 1000
+
+label_font_size = 12
 
 doc = svg.Document()
 with doc.tag('svg', 'width="%s" height="%s"' % (image_width, image_height)):
     doc.tag('rect', 'x="0" y="0" width="%s" height="%s" fill="#eee"' % (image_width, image_height))
 
     svg.write_text(doc, "Open Source stepping stones", size=25, fill="#444", x=40, y=50)
-    svg.write_text(doc, "Onboarding", size=18, fill="#222", x=40, y=85)
-    line_y = 120
-    label_x = 20
-    color = "11ee44"
-    for line in lines:
-        svg.write_rect(doc, x=label_x, y=line_y-30, width=130, height=40, fill="#" + color)
-        svg.write_text(doc, line, size=label_font_size, fill=svg.text_color(color), x=label_x+13, y=line_y-4)
 
-        label_x += 300
-        line_y += line_height
+    svg.write_circle(doc, r=20, x=830, y=480, fill="#101010")
+
+    for pos in positions:
+        path_x = pos[0]
+        path_y = pos[1]
+        slope = pos[2]
+        color = pos[3]
+        label = pos[4]
+        stones = stepping_stones[label]
+
+        svg.write_text(doc, label, size=18, fill="#222", x=path_x, y=path_y-40)
+        for stone in stones:
+            svg.write_rect(doc, x=path_x, y=path_y-30, width=130, height=40, fill="#" + color)
+            svg.write_text(doc, stone, size=label_font_size, fill=svg.text_color(color), x=path_x+13, y=path_y-4)
+
+            path_x += horizontal_spacing
+            path_y += slope
 
 filename = "images/stepping-stones.svg"
 with open(str(filename), "w") as file:
