@@ -30,8 +30,8 @@ positions = [
 
 horizontal_spacing = 100
 
-image_width = 2000
-image_height = 1000
+image_width = 1700
+image_height = 950
 
 label_font_size = 12
 
