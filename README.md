@@ -2,13 +2,17 @@
 
 ## Introduction
 
-Open Source is built on openness and freedom. It providies space for intrinsically motivated work and free distributon of its results. This reduces barriers. It allows peers to come together and realize their goals through open means. One of the powerful results are open source communities. They unlock new levels of collaboration and adoption which result in a new quality of success. Not every open source project intends to build a community but those who do and succeed have an invaluable asset at hand to foster their success.
+Open Source is built on openness and freedom. It providies space for intrinsically motivated work. Through free distributon of its results it fosters visibility. This reduces barriers. It encourages peers to come together and realize their goals through open means.
 
-How can you reach that success? There are two key factors: **Produce good code** and **Be accessible to users and contributors**. This is what makes a good upstream open source project, a project which creates value to its users, a project which attracts people to work on creating this value together.
+That is all carried by open source communities. They unlock new levels of collaboration and adoption which result in a new quality of success. Not every open source project intends to build a community but those who do and succeed have an invaluable asset at hand to foster their success.
 
-There is a lot to be said about how to create good code which has value to its users and there are many places where you will find great information, advice and inspiration how this can be done. Here we will focus on how to make an open source project accessible to users and contributors. What are the stepping stones you need to build to give users and contributors a way to access the project, to use its results and be a part of it.
+How can you reach that success? There are three key factors: **Form an idea**, **Produce good code** and **Be accessible to users and contributors**. This is what makes a good upstream open source project, a project which creates value to its users, a project which attracts people to work on creating this value together.
 
-This is a work in progress. There are many stepping stones you can identify and we expect the collection to grow and become more detailed over time. It will never be an exhaustive list of everything possible, but we hope that this collection can be useful as a source for people to pick what resonates with them and build there own interpretation which suits their projects.
+At first, there is the need for an idea to build the project around. Without a start that attracts other people to your project, there will never be an successful open source project. Successful ideas can be as diverse as menkind is. They do not need to be innovative or new, yet they can. The only measure here is if there is any other big or small group of people interested in it.
+
+There is a lot to be said about how to create good code which has value. There are many places where you will find great information, advice and inspiration how this can be done. Here we will focus on how to make an open source project accessible to users and contributors. What are the stepping stones you need to build to give users and contributors a way to access the project, to use its results and be a part of it.
+
+This is work in progress. There are many stepping stones you can identify and we expect the collection to grow and become more detailed over time. It will never be an exhaustive list of everything possible, but we hope that this collection can be useful as a source for people to pick what resonates with them and build there own interpretation which suits their projects.
 
 To give some orientation we group the stepping stones in eight paths which look at accessing open source projects from four different angles, Each stepping stone comes with a description and some examples and stories from real projects which illustrate the idea. Here we also very much welcome your input. You do know more examples and stories. Please don't hesitate to contribute them so that others can learn and be inspired from what you have learned and already figured out.
 
