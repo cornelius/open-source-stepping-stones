@@ -11,6 +11,9 @@ Does the project solve a real problem? Does it have tangible value to some audie
 
 One way of looking at it is the "Scratch your own itch" perspective. If you solve a problem which is interesting to you, you do solve a real problem and you provide value to your audience of one. Chances are that there are others who have the same problem and would also benefit from a solution. If you open up your solution you can find them. That's how your audience grows.
 
+## Visionary idea
+
+Even if the case that a real problem is tackled is far more often, there is still the chance for starting a project based on a complete new and innovative visionary idea.
 
 ## Shared vision
 
